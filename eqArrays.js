@@ -10,3 +10,5 @@ const eqArrays = function (array1, array2) {
   return Equal;
 };
 eqArrays([1, 2, 3], [1, 2, 3]);
+
+module.exports = head;
