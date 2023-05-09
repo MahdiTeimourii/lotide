@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@wicketta/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lighthouse lab' project (lotide)",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Wicketta/lotide.git"
   },
-  "author": "",
+  "author": "Mahdi Teimouri",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Wicketta/lotide/issues"
